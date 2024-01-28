@@ -31,7 +31,7 @@ function About(props) {
                         </button>
                     </h2>
                     <div id="flush-collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                        <div className="accordion-body">yours Rithwik</div>
+                        <div className="accordion-body">yours Rithwik 😉</div>
                     </div>
                 </div>
             </div>
