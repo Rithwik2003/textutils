@@ -11,7 +11,7 @@ function About(props) {
                         </button>
                     </h2>
                     <div id="flush-collapseOne" className="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                        <div className="accordion-body">This is UI friendly website </div>
+                        <div className="accordion-body">This website UI is user friendly with dark and light modes </div>
                     </div>
                 </div>
                 <div className="accordion-item" style={{ backgroundColor: props.mode === "dark" ? "#072a4a" : "white", color: props.mode === "dark" ? "white" : "black" }}>
