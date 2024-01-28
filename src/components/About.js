@@ -27,7 +27,7 @@ function About(props) {
                 <div className="accordion-item" style={{ backgroundColor: props.mode === "dark" ? "#072a4a" : "white", color: props.mode === "dark" ? "white" : "black" }}>
                     <h2 className="accordion-header">
                         <button className="accordion-button collapsed" style={{ backgroundColor: props.mode === "dark" ? "#072a4a" : "white", color: props.mode === "dark" ? "white" : "black" }} type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                            Created with ❤️ by
+                            Made with ❤️ by
                         </button>
                     </h2>
                     <div id="flush-collapseThree" className="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
